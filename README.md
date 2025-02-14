@@ -1,7 +1,4 @@
-# youtube-cypress
-
-Baixe o projeto no Github:
-- `https://github.com/samlucax/youtube-cypress.git`
+# Cypress Study
 
 Passo a passo para executar os testes:
 
@@ -19,9 +16,6 @@ Passo a passo para executar os testes:
   - `npm install`
   - `./node_modules/.bin/cypress open`
   
-  Se quiser, apague o projeto do Cypress e tente fazer do zero acompanhando o vídeo. 
-  Bons estudos!
   
-  ---
-  
-  [![HitCount](http://hits.dwyl.com/{username}/{project-name}.svg)](http://hits.dwyl.com/{username}/{project-name})
+Projeto base:
+- `https://github.com/samlucax/youtube-cypress.git`
